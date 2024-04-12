@@ -1,10 +1,17 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Eliana de Cesare"
+image: "images/eli.JPG"
+links:
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://linkedin.com/"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/elianadce"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:elianadecesare@bluewin.ch"
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+ 
+I'm a student at University of Basel, currently enrolled in the "Clinical Psychology and Neuroscience" Masters program.  
